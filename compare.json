@@ -113,26 +113,26 @@
 		    "variability_coef": 1.8161684536560414
 		},
 		"ETH": {
-		    "annual_returns_pct": 282.6241054613936,
-		    "annual_volatility": 26.388158261934866,
-		    "avg_daily_profit_pct": 0.7743126177024482,
-		    "avg_monthly_profit_pct": 23.552008788449466,
+		    "annual_returns_pct": 283.5543628374137,
+		    "annual_volatility": 26.493148855972056,
+		    "avg_daily_profit_pct": 0.7768612680477087,
+		    "avg_monthly_profit_pct": 23.629530236451142,
 		    "backtest_days": 1593,
-		    "daily_profit_std_dev": 1.3812193307393303,
+		    "daily_profit_std_dev": 1.3867147895959326,
 		    "max_drawdown_pct": 36.86,
 		    "name": "Strategy199",
 		    "positions": 16,
-		    "profit-drawdown-ratio": 33.4639175257732,
-		    "return_autocorrelation": 0.9999901708440484,
+		    "profit-drawdown-ratio": 33.57406402604449,
+		    "return_autocorrelation": 0.9999901831404996,
 		    "risk_free_return": -1.0,
 		    "risk_percent": 1.0,
-		    "sharpe_ratio": 10.672366849778928,
-		    "sortino": 4.494802420204964,
+		    "sharpe_ratio": 10.665186096733859,
+		    "sortino": 4.33860599238386,
 		    "stake_currency": "ETH",
 		    "stoploss": -0.16,
 		    "timeframe": "2h",
-		    "total_profit_pct": 1233.48,
-		    "variability_coef": 1.7838006241428748
+		    "total_profit_pct": 1237.54,
+		    "variability_coef": 1.7850224314578282
 		}
 	},
 	"Strategy200": {
